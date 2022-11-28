@@ -8,7 +8,7 @@
 
                   FACULTAD DE INGENIERIA
                   ESCUELA DE COMPUTACION
-    PROGRAMACIÓN ESTRUCTURADA DE DATOS PED941 G01T
+    DATAWAREHOUSE Y MINERÍA DE DATOS DMD941 G01T
       
                         ACTIVIDAD
                         DESAFIO 2
